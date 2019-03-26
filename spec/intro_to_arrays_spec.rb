@@ -94,8 +94,5 @@ describe "working with arrays" do
         length = length_of_array(@programming_languages)
         expect(length).to eq(8)
       end
-    end
-  end
-
-
+ 
 end
